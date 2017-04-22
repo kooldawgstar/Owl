@@ -16,8 +16,8 @@ The download includes Owl's and sample HTML File to get you started.
 Skeleton/
 ├── css/
 │   ├── Owl.css
-└── examples/
-│   └── HomePage.html
+├── examples/
+│   ├── HomePage.html
 │   └── SignUp.html
    
 ```
