@@ -1,5 +1,5 @@
 # Owl
-Owl is a quick and easy CSS broilerplate for mobile-friendly websites
+Owl is a quick and easy CSS framework for mobile-friendly websites
 
 ## Getting started
 
@@ -24,7 +24,7 @@ Owl/
 
 ### Why it's amazing
 
-Owl is a light and simple broilerplate. It only styles HTML elements and includes a responsive grid.
+Owl is a light and simple framework. It only styles HTML elements and includes a responsive grid.
 - Around 380 lines of CSS unminified and with comments
 - It's a starting point
 
@@ -37,6 +37,9 @@ Owl is a light and simple broilerplate. It only styles HTML elements and include
 - Safari latest
 - IE latest
 
+## Code Examples
+
+To see code examples and view the CSS Framework in action click [here](https://kooldawgstar.github.io/Owl/ {:target="_blank"})
 
 ## License
 
