@@ -39,7 +39,7 @@ Owl is a light and simple framework. It only styles HTML elements and includes a
 
 ## Code Examples
 
-To see code examples and view the CSS Framework in action click [here](https://kooldawgstar.github.io/Owl/)
+Coming Soon
 
 ## License
 
